@@ -1,3 +1,3 @@
 # humidity-relay
 
-Simple Esp8266 firmware for humidity minitoring station with websocket driven web interface
+Simple Esp8266 firmware for humidity control station with websocket driven web interface
